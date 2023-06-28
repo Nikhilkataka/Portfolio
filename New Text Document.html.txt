@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project Details</title>
+  <!-- Add any necessary CSS styles or external stylesheet links here -->
+</head>
+<body>
+  <h2>Project Details</h2>
+
+  <h3>ASSOCIATE CONSULTANT | Capgemini - Hyderabad, India | Jan 2022 – Jan 2023</h3>
+  <h4>Project 2: Zurich – Farmers Specialty Lines (Zurich North America)</h4>
+  <ul>
+    <li>Participated in upgrading the mobile home product to Duck Creek system to meet regulatory requirements, including data migration and implementation of new security controls.</li>
+    <li>Designed and delivered presentations to 10 clients, analyzing industry trends and presenting data-driven solutions. The presentations led to the successful implementation of 3 data-driven solutions, which improved client operations by 15% and increased revenue by 20%.</li>
+    <li>Conducted data analysis using both quantitative and qualitative methods for a healthcare organization, using Salesforce. sparked a 20% increase in efficiency and 10% improvement in patient outcomes.</li>
+    <!-- Add more list items for additional points -->
+  </ul>
+
+  <!-- Repeat the above structure for the other projects as well -->
+
+  <!-- Add any additional content or sections as needed -->
+
+  <!-- Add any necessary JavaScript code or external script links here -->
+</body>
+</html>
